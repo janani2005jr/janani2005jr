@@ -29,7 +29,7 @@ OpenCV • MediaPipe • Transformers
 HTML • CSS • JavaScript • Flask
 
 ### Database
-SQL • MySQL • SQLite
+SQL • MySQL • MongoDB • SQLite
 
 ### Tools
 Git • GitHub • VS Code • Jupyter Notebook
